@@ -1,0 +1,4 @@
+book
+.vscode
+*.exe
+./*/*.exe
